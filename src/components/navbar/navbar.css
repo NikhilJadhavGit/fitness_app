@@ -1,0 +1,15 @@
+.components-navbar-container{
+    background-color: rgba(133, 119, 119, 0.1);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 1.2rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
+    padding-bottom: 1.2rem;
+    max-height: 2rem;
+    align-items: center;
+    color: blue;
+    position: fixed;   
+    width: 95%;   
+}
